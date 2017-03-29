@@ -1,0 +1,23 @@
+.container{
+  text-align: center;
+  width: 100%;
+  min-height: 200px;
+}
+img{
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  /*margin: 10px;*/
+}
+.box{
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+
+  margin: 10px;
+}
+button{
+  width: 100px;
+  height: 20px;
+  display: block;
+}
